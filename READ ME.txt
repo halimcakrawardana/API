@@ -1,0 +1,16 @@
+Spesific Test Case:
+
+1. Double Click on Test Cases
+2. Choose one of the files in the test cases
+3. Run
+
+Run with Test Suites:
+
+1. Click Test Suites
+2. Click 'Execute All Cases on API'
+3. Run
+4. Click Result tab
+5. Click Export Report
+6. Select one to an export report (eg HTML)
+7. Select folder
+8. And you can see the result of API Testing
